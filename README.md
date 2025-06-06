@@ -2,7 +2,7 @@
 
 [![PyPI Version](https://img.shields.io/pypi/v/tracernaut.svg)](https://pypi.org/project/tracernaut/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/tracernaut.svg)](https://pypi.org/project/tracernaut/)
-[![License](https://img.shields.io/github/license/laioseman/tracernaut)](LICENSE)
+[![License](https://img.shields.io/github/license/lseman/tracernaut)](LICENSE)
 
 > An intelligent, interactive visualizer for step-by-step Python code execution and memory tracing.  
 > Built for students, educators, and curious minds.  
