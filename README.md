@@ -20,7 +20,7 @@ It turns abstract Python behavior into something **visible**, **intuitive**, and
 ## 📸 Example
 
 ```python
-from tracernaut import trace_execution
+from tracernaut import tracernaut
 
 @tracernaut
 def example():
@@ -30,3 +30,6 @@ def example():
     return b
 
 example()
+```
+
+This opens an interactive widget (in Jupyter) that lets you step through each line and visualize changes in memory, objects, variables, and control flow.
